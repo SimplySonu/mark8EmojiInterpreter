@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 80px;
+}
+.input {
+  display: block;
+  margin: auto;
+  padding: 12px;
+  height: 40px;
+  font-size: 18px;
+}
+.button {
+  margin-top: 24px;
+  height: 40px;
+  width: 150px;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: aliceblue;
+  border: none;
+}
+.text {
+  display: block;
+  padding: 12px;
+  margin: 40px auto;
+  font-size: 18px;
+}
+span {
+  font-size: 32px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+}
